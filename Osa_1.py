@@ -20,3 +20,12 @@ print(60*8760)
 
 # Kirjoita ratkaisu tähän
 print('print("Moi kaikki!")')
+
+# Kirjoita ratkaisu tähän
+nimi = input("Anna nimesi: ")
+print(nimi)
+print(nimi)
+
+# Kirjoita ratkaisu tähän
+nimi = input("Anna nimesi: ")
+print("!" + nimi + "!" + nimi + "!")
