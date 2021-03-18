@@ -14,3 +14,9 @@ print("Tuomas")
 print("Ukko Nooa, Ukko Nooa oli kunnon mies.")
 print("Kun hän meni saunaan, laittoi laukun naulaan.")
 print("Ukko Nooa, Ukko Nooa oli kunnon mies.")
+
+# Kirjoita ratkaisu tähän
+print(60*8760)
+
+# Kirjoita ratkaisu tähän
+print('print("Moi kaikki!")')
