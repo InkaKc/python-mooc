@@ -73,3 +73,16 @@ print(" -", taito1, "(" + taso1 + ")")
 print(" -", taito2, "(" + taso2 + ")")
 print(" -", taito3, "(" + taso3 + ")\n")
 print("haen työtä, josta maksetaan palkkaa", str(ala) + "-" + str(yla), "euroa kuussa")
+
+# Kirjoita ratkaisu tähän
+x = 27
+y = 15
+
+print(f"{x} + {y} = {x + y}")
+print(f"{x} - {y} = {x - y}")
+print(f"{x} * {y} = {x * y}")
+print(f"{x} / {y} = {x / y}")
+
+
+#keskiarvo = (x + y) / 2
+#print(f"Keskiarvo: {keskiarvo}")
