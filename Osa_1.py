@@ -86,3 +86,12 @@ print(f"{x} / {y} = {x / y}")
 
 #keskiarvo = (x + y) / 2
 #print(f"Keskiarvo: {keskiarvo}")
+
+# Korjaa ohjelma
+print(5, end="")
+print(" + ", end="")
+print(8, end="")
+print(" - ", end="")
+print(4, end="")
+print(" = ", end="")
+print(5 + 8 - 4)
